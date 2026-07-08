@@ -81,18 +81,7 @@ On Windows, if PowerShell blocks `npm`, use `npm.cmd` instead:
 npm.cmd run build
 ```
 
-## Demo Notes
 
-For the video demo, I can walk through:
-
-1. Login/register prototype
-2. Student dashboard
-3. Interview setup
-4. Mock interview questions
-5. Feedback report
-6. Practice history
-7. Admin question management
-8. Code comments that show how the project matches the lab requirements
 
 ## What Comes Next
 
